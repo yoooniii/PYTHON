@@ -1,0 +1,7 @@
+o=input("Вид на операцията: ")
+a=int(input("Въведете число: "))
+b=int(input("Въведете число: "))
+if o=='+': print(a+b)
+elif o=='-': print(a-b)
+elif o=='/': print(a/b)
+elif o=='*': print(a*b)
